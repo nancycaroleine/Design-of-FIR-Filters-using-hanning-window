@@ -6,7 +6,7 @@
 
   PC Installed with SCILAB 
 
-# PROGRAM:
+# PROGRAM
 ```
 / FIR Low-Pass Filter using Fourier Series
 // Hanning window, cutoff = 0.5π radians/sample, N = 21
