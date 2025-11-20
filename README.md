@@ -1,3 +1,9 @@
+## Design-of-FIR-Filters-using-hanning-window
+
+**NAME :** **NANCY CAROLEINE P R**
+
+**REG NO:** **212223060181**
+
 # AIM: 
           
   To generate design of low pass FIR digital filter using SCILAB 
